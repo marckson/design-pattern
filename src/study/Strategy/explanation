@@ -3,7 +3,15 @@
 
 
 
-FONTE:
+============================================STRATEGY=================================
 http://pt.wikipedia.org/wiki/Strategy
 http://www.devmedia.com.br/desvendando-o-padrao-strategy-em-java/29156
 
+============================================DAO======================================
+http://www.thecodebakers.org/2011/04/proposta-arquitetural-para-uma.html
+
+
+
+===========================================
+Chain of Responsibility, Command, Iterator, Mediator e Memento
+http://www.devmedia.com.br/design-patterns-entendendo-os-padroes-chain-of-responsibility-command-iterator-mediator-e-memento/29397
